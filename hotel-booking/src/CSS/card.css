@@ -1,0 +1,17 @@
+.card{
+    background-color:rgb(223, 219, 219);
+    width: 25%;
+    float:left;
+     border-width: 2px;
+    margin : 4%;
+    border-radius: 20px;
+}
+
+.card > div{
+    
+  
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 800;
+  
+}

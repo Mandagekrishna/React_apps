@@ -1,0 +1,8 @@
+.button_class{
+    background-color: rgb(57, 174, 228);
+    height: 30px;
+    width : 90px;
+    border-radius: 7px;
+    border: none;
+    color:rgb(255, 255, 255);
+}
