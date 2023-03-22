@@ -24,7 +24,7 @@ function App() {
     <div >
 
 
-<ReactMapGL mapboxAccessToken={"pk.eyJ1IjoibWFuZGFnZWtyaXNobmEiLCJhIjoiY2xmZGdnbXI0MGM3bDN0bnpjanpxNnU2ZSJ9.hLb-9aRI9HjaX0c4S3a0eA"}
+<ReactMapGL mapboxAccessToken={"paste your mapbox public token key here"}
     {...viewport} onMove={evt => setviewport(evt.viewport)}
      mapStyle="mapbox://styles/mapbox/streets-v9"></ReactMapGL>
 
